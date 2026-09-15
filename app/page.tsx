@@ -27,7 +27,7 @@ export default function Page() {
 
       <section className="hero" id="top">
         <div className="hero-kicker"><span className="pulse-dot" /> Independent digital studio <span className="kicker-year">EST. 2014</span></div>
-        <h1>We build the<br /><em>next</em> <span className="outline-word">chapter.</span></h1>
+        <h1>We develop the<br /><em>new</em> <span className="outline-word">era.</span></h1>
         <div className="hero-bottom">
           <p className="hero-intro">Northstar is a software house for teams ready to move with intention. We make digital products, brands, and experiences that create meaningful momentum.</p>
           <a className="circle-link" href="#work" aria-label="Explore selected work"><span>↓</span><small>SCROLL TO<br />EXPLORE</small></a>
